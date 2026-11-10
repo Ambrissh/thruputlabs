@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thruput-labs-first-look.ambrissh23.chatgpt.site/sitemap.xml

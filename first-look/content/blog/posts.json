@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "supermarket-theory-of-building-an-agency",
+    "description": "Ambrissh’s supermarket theory of building a profitable service agency: reach the right customers, deliver useful work and earn repeat business through trust.",
+    "category": "Building an agency",
+    "deck": "Demand gets a business started. Trust gives people a reason to come back.",
+    "coverClass": "supermarket",
+    "coverTitle": [
+      "Same shelves.",
+      "Different loyalties."
+    ],
+    "coverLabel": "The supermarket theory",
+    "excerpt": "Why I’m building around accessible service, sensible margins and customers who come back.",
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "ai-seo-geo-workflow",
+    "description": "Ambrissh compares AI-native SEO and GEO with vibe coding: understand the workflow, use AI on specific gaps and verify the result before calling it progress.",
+    "category": "SEO & GEO",
+    "deck": "A polished output can hide an unfinished workflow. I see the same risk in AI-built software and AI-generated search work.",
+    "coverClass": "search",
+    "coverTitle": [
+      "Vibe coding.",
+      "For search?"
+    ],
+    "coverLabel": "AI-native SEO, GEO & development",
+    "excerpt": "What building with AI taught me about search: own the brief, inspect the gaps and test what comes back.",
+    "date": "2026-11-06"
+  }
+]

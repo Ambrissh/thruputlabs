@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/robots.txt",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/robots.txt",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/sitemap.xml",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/case-studies.html",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/blog/ai-seo-geo-workflow.html",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/blog/ai-seo-geo-workflow.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "path": "/this-page-does-not-exist-audit",
+    "status": 401,
+    "final_url": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/this-page-does-not-exist-audit",
+    "content_type": "text/html; charset=utf-8"
+  }
+]

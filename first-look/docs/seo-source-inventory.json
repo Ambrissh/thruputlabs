@@ -1,0 +1,211 @@
+{
+  "scope": "Source checks; not a public search/indexing test",
+  "pages": [
+    {
+      "page": "blog/ai-seo-geo-workflow.html",
+      "title": "AI-Native SEO & GEO: The Vibe Coding Analogy | Thruput Labs",
+      "title_characters": 59,
+      "description": "Ambrissh compares AI-native SEO and GEO with vibe coding: understand the workflow, use AI on specific gaps and verify the result before calling it progress.",
+      "description_characters": 156,
+      "h1": "Vibe Coding for Search: My AI-Native SEO and GEO Playbook",
+      "body_words_excluding_templates": 1602,
+      "images": 1,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 1,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/blog/ai-seo-geo-workflow.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "blog/supermarket-theory-of-building-an-agency.html",
+      "title": "The Supermarket Analogy for Agencies | Thruput Labs",
+      "title_characters": 51,
+      "description": "Ambrissh\u2019s supermarket theory of building a profitable service agency: reach the right customers, deliver useful work and earn repeat business through trust.",
+      "description_characters": 157,
+      "h1": "The Supermarket Theory of Building an Agency",
+      "body_words_excluding_templates": 1608,
+      "images": 1,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 1,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/blog/supermarket-theory-of-building-an-agency.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "blog.html",
+      "title": "Blog | Thruput Labs",
+      "title_characters": 19,
+      "description": "Writing by Ambrissh on building a service agency and using AI for SEO and GEO. The ideas and practical decisions behind Thruput Labs.",
+      "description_characters": 133,
+      "h1": "Blog",
+      "body_words_excluding_templates": 145,
+      "images": 1,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 4,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/blog.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies/ayini-boutique.html",
+      "title": "Ayini Boutique Local SEO Case Study | Thruput Labs",
+      "title_characters": 50,
+      "description": "Ayini Boutique case study: local service pages for Thanjavur, collection and navigation improvements, search setup and an AI-discovery roadmap by Thruput Labs.",
+      "description_characters": 159,
+      "h1": "Making local craftsmanship easier to discover.",
+      "body_words_excluding_templates": 530,
+      "images": 2,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 2,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies/ayini-boutique.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies/pk-tex.html",
+      "title": "PK TEX Catalogue Website Case Study | Thruput Labs",
+      "title_characters": 50,
+      "description": "PK TEX website case study: a saree catalogue, product details and product-specific WhatsApp enquiries, delivered for \u20b94,000 by Thruput Labs.",
+      "description_characters": 140,
+      "h1": "Silk in full colour. Details within reach.",
+      "body_words_excluding_templates": 336,
+      "images": 3,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 2,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies/pk-tex.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies/ps4-gaming-lounge.html",
+      "title": "PS4 Gaming Lounge Website Case Study | Thruput Labs",
+      "title_characters": 51,
+      "description": "Thruput Labs built PS4 Gaming Lounge\u2019s website for \u20b94,000, bringing games, offers, pricing and booking information into one Thanjavur venue website.",
+      "description_characters": 148,
+      "h1": "Bring the lounge to the screen.",
+      "body_words_excluding_templates": 321,
+      "images": 3,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 2,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies/ps4-gaming-lounge.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies/sigaram-physio.html",
+      "title": "Sigaram Physio SEO & GEO Case Study | Thruput Labs",
+      "title_characters": 50,
+      "description": "Sigaram Physio case study: local SEO, GEO foundations, service pages, Google Business Profile work, tracking and English\u2013Tamil access by Thruput Labs.",
+      "description_characters": 150,
+      "h1": "Good local care deserves to be easier to find.",
+      "body_words_excluding_templates": 967,
+      "images": 4,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 2,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies/sigaram-physio.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies/surprise-bros.html",
+      "title": "Surprise Bro\u2019s Workflow Automation Case Study | Thruput Labs",
+      "title_characters": 60,
+      "description": "How Thruput Labs connected billing, client events, attendance and salary records in one Surprise Bro\u2019s workspace, with role-based access and familiar forms.",
+      "description_characters": 156,
+      "h1": "The whole business. One starting point.",
+      "body_words_excluding_templates": 523,
+      "images": 3,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 2,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies/surprise-bros.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "case-studies.html",
+      "title": "Case studies | Thruput Labs",
+      "title_characters": 27,
+      "description": "Explore Thruput Labs case studies in custom workflows, websites and SEO/GEO, including Surprise Bro\u2019s, Ayini Boutique, Sigaram Physio, PK TEX and PS4 Gaming Lounge.",
+      "description_characters": 164,
+      "h1": "Case studies",
+      "body_words_excluding_templates": 272,
+      "images": 21,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 9,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/case-studies.html",
+      "source_robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "page": "index.html",
+      "title": "Thruput Labs | Workflows, Custom Software & SEO/GEO",
+      "title_characters": 51,
+      "description": "Thruput Labs builds custom workflows, automation and software, with SEO, GEO and AEO services that start with your business and test against real search evidence.",
+      "description_characters": 162,
+      "h1": "Thruput Labs",
+      "body_words_excluding_templates": 266,
+      "images": 1,
+      "image_dimensions_missing": 0,
+      "inbound_pages": 9,
+      "reachable_from_home": true,
+      "canonical": "https://thruput-labs-first-look.ambrissh23.chatgpt.site/",
+      "source_robots": "index,follow,max-image-preview:large"
+    }
+  ],
+  "internal_graph": {
+    "blog/ai-seo-geo-workflow.html": [
+      "blog.html",
+      "case-studies.html",
+      "index.html"
+    ],
+    "blog/supermarket-theory-of-building-an-agency.html": [
+      "blog.html",
+      "case-studies.html",
+      "index.html"
+    ],
+    "blog.html": [
+      "blog/ai-seo-geo-workflow.html",
+      "blog/supermarket-theory-of-building-an-agency.html",
+      "case-studies.html",
+      "index.html"
+    ],
+    "case-studies/ayini-boutique.html": [
+      "case-studies.html",
+      "case-studies/sigaram-physio.html",
+      "index.html"
+    ],
+    "case-studies/pk-tex.html": [
+      "case-studies.html",
+      "case-studies/surprise-bros.html",
+      "index.html"
+    ],
+    "case-studies/ps4-gaming-lounge.html": [
+      "case-studies.html",
+      "case-studies/pk-tex.html",
+      "index.html"
+    ],
+    "case-studies/sigaram-physio.html": [
+      "case-studies.html",
+      "case-studies/ps4-gaming-lounge.html",
+      "index.html"
+    ],
+    "case-studies/surprise-bros.html": [
+      "case-studies.html",
+      "case-studies/ayini-boutique.html",
+      "index.html"
+    ],
+    "case-studies.html": [
+      "blog.html",
+      "case-studies/ayini-boutique.html",
+      "case-studies/pk-tex.html",
+      "case-studies/ps4-gaming-lounge.html",
+      "case-studies/sigaram-physio.html",
+      "case-studies/surprise-bros.html",
+      "index.html"
+    ],
+    "index.html": [
+      "blog.html",
+      "case-studies.html"
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+[
+  {
+    "slug": "surprise-bros",
+    "brand": "Surprise Bro’s",
+    "category": "Custom software · Workflow design",
+    "line": "Billing, events, attendance and salaries. One workspace.",
+    "title": "The whole business. One starting point.",
+    "lead": "An event business never works in a straight line. Clients, functions, staff, expenses and invoices all move at once. We brought the everyday jobs into one familiar workspace, with a public website that gives the celebrations their own stage.",
+    "image": "surprise-workspace.webp",
+    "imageAlt": "Surprise Bro’s workspace showing Billing, Clients and events, Attendance and Salary",
+    "fit": "contain",
+    "website": "https://www.surprisebros.in/",
+    "websiteLabel": "Visit Surprise Bro’s",
+    "facts": [
+      [
+        "Four workspaces",
+        "One shared entry point"
+      ],
+      [
+        "Built around",
+        "The team’s daily tasks"
+      ],
+      [
+        "Connected records",
+        "Clients, events and staff"
+      ]
+    ],
+    "sections": [
+      {
+        "title": "Move quickly. Keep the work familiar.",
+        "text": [
+          "The brief was practical: bring the main jobs together quickly, without asking the team to learn a complicated new way of working. The starting point is the work itself: create a bill, organise an event, record attendance or review a month’s salary records.",
+          "We organised those tasks into four focused areas behind one home screen. Each person can enter the area they have access to. The owner has a clear route across the business, while the interface stays focused on the job in front of the user."
+        ]
+      },
+      {
+        "title": "A workspace that follows the day.",
+        "items": [
+          [
+            "Billing",
+            "Saved customers and catalogue items, tax calculations, invoice drafts and history, invoice numbering and branded PDF previews and downloads."
+          ],
+          [
+            "Clients & events",
+            "Client details, function dates, venues, inclusions, staff assignments, itemised costs and decor references together around the event."
+          ],
+          [
+            "Attendance",
+            "Check-in and check-out, attendance history, date and staff filters, leave totals, exports and qualifying overtime records."
+          ],
+          [
+            "Salary",
+            "Monthly salary records, explicitly manual leave deductions, optional gifts, revisions and CSV exports. The owner retains control over the final record."
+          ]
+        ]
+      },
+      {
+        "title": "The connections make it useful.",
+        "text": [
+          "Operations and attendance use a shared staff roster. Client records can be added while an event draft remains in progress. Saved information is confirmed on the current screen, so the team can keep moving without repeatedly reloading the whole workspace.",
+          "Decor photos have their own protected upload flow, including preparation, progress and retry handling. Event costs and staff assignments sit with the function they belong to. The result is a clear place to return to when a busy day changes direction."
+        ]
+      },
+      {
+        "title": "A public face for the celebrations.",
+        "text": [
+          "The public website has a different job: help a prospective client picture the celebration. Wedding stages, birthdays, balloon decor, cakes and personal surprises are brought into a visual portfolio, followed by a clear path to start an enquiry."
+        ],
+        "image": "surprise-title.webp",
+        "imageAlt": "Cropped homepage title card from the Surprise Bro’s website"
+      },
+      {
+        "title": "All in one place, with room to grow.",
+        "text": [
+          "The delivered workspace brings four recurring business functions into one entry point. It gives the team focused forms, saved records and access appropriate to their role, while keeping the familiar language of clients, events, attendance and billing.",
+          "The strength of the project is the connection between those ordinary tasks. A useful workflow should feel like a clearer version of the way the business already works."
+        ]
+      }
+    ],
+    "cardTitle": [
+      "Four jobs.",
+      "One home screen."
+    ],
+    "cardDescription": "Invoices, events, attendance and salaries, brought into one workspace."
+  },
+  {
+    "slug": "ayini-boutique",
+    "brand": "Ayini Boutique",
+    "category": "Local SEO · AI-discovery strategy",
+    "line": "Local SEO foundations, with a roadmap for AI discovery.",
+    "title": "Making local craftsmanship easier to discover.",
+    "lead": "Bridal blouses, aari work and custom outfits deserve clear service information as well as beautiful photographs. We shaped Ayini’s search foundations around its work in Thanjavur, then mapped the next phase for discovery through AI answers.",
+    "image": "ayini-editorial.webp",
+    "imageAlt": "Editorial still life of olive and copper silk fabrics",
+    "fit": "cover",
+    "imageNote": "Editorial textile artwork.",
+    "website": "https://ayinithelabel.com/",
+    "websiteLabel": "Visit Ayini The Label",
+    "facts": [
+      [
+        "Two service pages",
+        "Focused on local enquiries"
+      ],
+      [
+        "Two supporting articles",
+        "More context around the work"
+      ],
+      [
+        "Next phase",
+        "GEO & AEO strategy"
+      ]
+    ],
+    "sections": [
+      {
+        "title": "Give each service a clear place.",
+        "text": [
+          "Ayini’s services needed to be easy to understand on their own terms. A customer looking for a bridal blouse in Thanjavur has a specific question. We gave those intentions dedicated pages, each with a clear service and local focus.",
+          "The completed SEO work included a clearer homepage search position and two local service pages: bridal blouses and customised dresses. The language ties the service to the place, helping visitors understand what Ayini offers and where to begin."
+        ]
+      },
+      {
+        "title": "Build the foundation around real information.",
+        "items": [
+          [
+            "Service-led pages",
+            "Dedicated pages for bridal blouse and customised dress enquiries in Thanjavur, with a clearer route from the main navigation."
+          ],
+          [
+            "Collections and navigation",
+            "More useful collection descriptions and metadata, cleaner menu links, and a corrected co-ord collection URL with a redirect."
+          ],
+          [
+            "Supporting content",
+            "Two blog posts to add context around the services and create additional paths into the website."
+          ],
+          [
+            "Search and local presence",
+            "Search Console verification, sitemap submission and indexing requests, together with updates to the Google Business Profile and service information."
+          ]
+        ]
+      },
+      {
+        "title": "Make the next question easy to answer.",
+        "text": [
+          "Search visibility is part of a customer journey. The page should explain the service clearly, connect it with relevant collections, and make the next step easy to find. That is why the work covers navigation, content and local business information together.",
+          "The finished foundation gives Ayini focused service pages and a clearer structure for ongoing search work. Future content can connect directly with the relevant services and collections through useful internal links."
+        ]
+      },
+      {
+        "title": "Next: a clearer presence in AI answers.",
+        "text": [
+          "The later GEO and AEO work is an AI-discovery roadmap. Its focus is practical: clear answers to buying questions, accurate order and fit information, understandable service descriptions, and consistent business details.",
+          "The roadmap also covers crawl access, canonical URLs, sitemaps, internal links, existing structured data and the separate checks needed for ChatGPT Search access. It sets out a baseline for mentions, citations and referral visits, so the next phase can be assessed against consistent evidence."
+        ]
+      },
+      {
+        "title": "A stronger base for the work to be found.",
+        "text": [
+          "Ayini’s completed SEO scope brings the brand’s local services into clearer focus: two dedicated service pages, supporting articles, cleaner collection information and a connected local search presence. The next step builds on that same clarity for customers asking questions through AI search."
+        ]
+      }
+    ],
+    "cardTitle": [
+      "Great work.",
+      "Easier to find."
+    ],
+    "cardDescription": "Local service pages, search foundations and a roadmap for AI discovery."
+  },
+  {
+    "slug": "sigaram-physio",
+    "brand": "Sigaram Physio",
+    "category": "SEO · GEO · English & Tamil",
+    "line": "Local care, clearer search foundations and one-click Tamil access.",
+    "title": "Good local care deserves to be easier to find.",
+    "lead": "Sigaram had a website. The next job was to explain its care more clearly, make its service pages accessible to search engines and connect discovery to a familiar enquiry route. We brought together local SEO, GEO foundations, Google Business Profile work, privacy-aware tracking and a complete English–Tamil experience for the Thanjavur clinic.",
+    "image": "sigaram-title.webp",
+    "imageAlt": "Cropped homepage title card from Sigaram Physio",
+    "fit": "cover",
+    "website": "https://www.sigaramphysio.in/",
+    "websiteLabel": "Visit Sigaram",
+    "facts": [
+      [
+        "4 dedicated service pages",
+        "Care information organised around different patient needs"
+      ],
+      [
+        "32 profile services reviewed",
+        "Descriptions checked and saved in Google Business Profile"
+      ],
+      [
+        "English + Tamil",
+        "One-click switching across the website"
+      ]
+    ],
+    "sections": [
+      {
+        "type": "project-budget",
+        "title": "The starting point: a ₹2,500 website.",
+        "text": [
+          "Our first website build gave Sigaram a public home for its services, team and appointment enquiries for ₹2,500. The SEO/GEO setup and later Tamil-language work were separate follow-up phases. The original website fee is shown here as project history, not as a price for the whole engagement.",
+          "The enquiry flow stayed familiar. Visitors prepare their details on the website, review the message in WhatsApp and send it themselves. Appointment confirmation remains with the clinic. Recruitment has its own route, so a job application does not get mixed into an appointment enquiry."
+        ]
+      },
+      {
+        "title": "Start with the questions patients actually ask.",
+        "text": [
+          "Someone looking for help after surgery needs different information from a caregiver researching rehabilitation for an older adult. A single general introduction could not explain every service with the same clarity.",
+          "We reviewed the clinic’s existing search information, local competitor pages and a saved set of AI discovery answers. That gave the work a concrete brief: improve service detail, make the clinic’s identity consistent and give visitors a clear next step. A chatbot’s confident answer was a research lead to verify, rather than a result to take on trust."
+        ]
+      },
+      {
+        "title": "Give each service a useful destination.",
+        "text": [
+          "We added four dedicated service pages and a linked guide to choosing a physiotherapist in Thanjavur. The pages explain the relevant care and enquiry process using the clinic’s confirmed information. They are linked from the website, with their core content available in the initial HTML."
+        ],
+        "items": [
+          [
+            "Orthopaedic and post-surgery rehabilitation",
+            "A destination for visitors researching musculoskeletal care and recovery after surgery."
+          ],
+          [
+            "Neurological and stroke rehabilitation",
+            "Information organised for patients and caregivers researching neurological rehabilitation."
+          ],
+          [
+            "Geriatric physiotherapy",
+            "A dedicated explanation of care for older adults and everyday movement goals."
+          ],
+          [
+            "Pain physiotherapy",
+            "Clear service information for visitors researching pain and movement concerns."
+          ]
+        ]
+      },
+      {
+        "title": "Make the technical foundations dependable.",
+        "text": [
+          "The follow-up covered page-specific titles and descriptions, preferred URLs, connected clinic and service structured data, crawlable links, robots.txt and the sitemap. The permanent Google verification file was retained. Redirects lead alternate URL versions to the preferred pages, and missing pages return a real 404.",
+          "Existing clinic photography was preserved and delivered in responsive WebP versions. The emphasis was on making the actual clinic information easier to access, rather than adding unsupported medical credentials or treatment promises."
+        ]
+      },
+      {
+        "title": "Keep the website and Google profile aligned.",
+        "text": [
+          "We reviewed categories, clinic details, hours, the description and the website link in Google Business Profile. All 32 primary-category service descriptions were reviewed, populated where needed and reopened to check the saved text.",
+          "The handover recorded one published profile update and 16 further updates saved on an eight-week schedule. Those scheduled items were checked for their copy, dates and destination links. A saved schedule is a publishing plan; future publication remains under Google’s control.",
+          "Profile saves and platform approval were tracked separately. The dated handover identified phone approval and complete public service-description rendering as follow-up, rather than marking them finished just because an editor accepted a change."
+        ]
+      },
+      {
+        "title": "The same website. In the language people use.",
+        "text": [
+          "The next phase added a visible Tamil switch. One click changes the website’s navigation, service copy, forms, privacy text and page information into Tamil, with an English button to switch back. The choice persists between pages and refreshes.",
+          "The recorded checks covered the service routes, careers, privacy, error page and mobile layouts. A later clinic blog was also published in English and Tamil. This makes language choice part of the website journey, rather than an isolated translated paragraph."
+        ],
+        "image": "sigaram-tamil-mobile.png",
+        "imageAlt": "Sigaram’s mobile homepage in Tamil, with the English language switch visible",
+        "imageFit": "contain"
+      },
+      {
+        "title": "Measure the next step, not just a page view.",
+        "text": [
+          "We configured GA4 with visitor choice and privacy controls, then verified page-view, WhatsApp, directions and call-intent events. Names, enquiry details and message content are excluded from those analytics events.",
+          "The contact checks verified event delivery. They did not place a connected call or send a patient message. A WhatsApp click or a call-button click is useful evidence of intent, but it is not a confirmed appointment."
+        ]
+      },
+      {
+        "title": "A documented setup, with evidence behind it.",
+        "text": [
+          "On 9 November 2026, the handover recorded individual Google URL inspections confirming that all eight sitemap pages from that phase were indexed. The later bilingual blog is separate from that eight-page checkpoint. This is a dated indexing observation, not a claim that all future content will rank.",
+          "The client received a readable before-and-after report, a tracking workbook, the content schedule and a dated evidence handover. Search and AI observations were kept as baselines. We did not turn early impressions or a small set of AI answers into a ranking-growth claim.",
+          "The result is a more complete local-search foundation: specific service destinations, clearer business information, a familiar enquiry flow and a website available in English and Tamil. Later rankings, citations and booked appointments still need to be measured over comparable periods."
+        ],
+        "image": "sigaram-cover.webp",
+        "imageAlt": "The Sigaram clinic team"
+      }
+    ],
+    "cardTitle": [
+      "Local care.",
+      "Easier to find."
+    ],
+    "cardDescription": "Local SEO, service pages and an English–Tamil website for a Thanjavur clinic.",
+    "projectFee": 2500,
+    "projectFeeLabel": "Original website build"
+  },
+  {
+    "slug": "ps4-gaming-lounge",
+    "brand": "PS4 Gaming Lounge",
+    "category": "Website · Booking discovery",
+    "line": "Games, food and bookings in one vivid experience.",
+    "title": "Bring the lounge to the screen.",
+    "lead": "The PS4 Gaming Lounge website gives visitors a feel for the Thanjavur venue, then brings its games, offers, tournaments, food and booking information into one vivid experience.",
+    "image": "ps4-title.webp",
+    "imageAlt": "Cropped homepage title card from PS4 Gaming Lounge",
+    "fit": "cover",
+    "website": "https://www.ps4loungetnj.in/",
+    "websiteLabel": "Visit PS4 Gaming Lounge",
+    "facts": [
+      [
+        "The venue",
+        "Gaming in Thanjavur"
+      ],
+      [
+        "The experience",
+        "Consoles, VR and racing"
+      ],
+      [
+        "The journey",
+        "Explore, compare, enquire"
+      ]
+    ],
+    "sections": [
+      {
+        "type": "project-budget",
+        "title": "Built for ₹4,000.",
+        "text": [
+          "The PS4 Gaming Lounge website was delivered for ₹4,000. It brings the venue’s atmosphere, games, offers, pricing and booking information together in one place."
+        ]
+      },
+      {
+        "title": "Let visitors picture the visit.",
+        "text": [
+          "The site presents the lounge through a visual opening, game information and a gallery of the space. PS5, PS4, Xbox, VR and racing simulators are introduced as parts of the venue’s experience, alongside food from Crave.",
+          "A visitor can browse what is available, look through offers and tournaments, and find pricing and booking information within the same website. The structure keeps the excitement of the venue connected to the practical details of planning a visit."
+        ]
+      },
+      {
+        "title": "Give every detail a route back to the visit.",
+        "text": [
+          "Games, food, gallery images, reviews and contact information each answer a different visitor question. They are organised as parts of a single browsing journey, so a promising image can lead into a game choice, an offer or a booking enquiry."
+        ]
+      },
+      {
+        "title": "A public home for the lounge.",
+        "text": [
+          "The delivered experience brings the venue’s atmosphere and useful information together. It gives the business one place to point new visitors, with a clear path from discovery to contact."
+        ],
+        "image": "ps4-cover.webp",
+        "imageAlt": "Gaming monitor and controller artwork from the lounge website"
+      }
+    ],
+    "cardTitle": [
+      "Pick a game.",
+      "Plan your visit."
+    ],
+    "cardDescription": "Games, offers, pricing and booking information for the Thanjavur lounge.",
+    "projectFee": 4000
+  },
+  {
+    "slug": "pk-tex",
+    "brand": "PK TEX",
+    "category": "Commerce website · WhatsApp workflow",
+    "line": "A saree catalogue with product-ready WhatsApp enquiries.",
+    "title": "Silk in full colour. Details within reach.",
+    "lead": "PK TEX’s digital catalogue connects the texture and colour of its sarees with the information a customer needs to make an enquiry. The browsing experience carries the selected product’s details into WhatsApp.",
+    "image": "pktex-title.webp",
+    "imageAlt": "Cropped homepage title card from PK TEX",
+    "fit": "cover",
+    "website": "https://www.pktexx.com/",
+    "websiteLabel": "Visit PK TEX",
+    "facts": [
+      [
+        "Product discovery",
+        "Categories and price filters"
+      ],
+      [
+        "Product context",
+        "Colour, length and imagery"
+      ],
+      [
+        "Enquiry handoff",
+        "Product-specific WhatsApp links"
+      ]
+    ],
+    "sections": [
+      {
+        "type": "project-budget",
+        "title": "Built for ₹4,000.",
+        "text": [
+          "The PK TEX website was delivered for ₹4,000. The project connects a visual saree catalogue with product details and product-specific WhatsApp enquiries."
+        ]
+      },
+      {
+        "title": "Let the collection do the talking.",
+        "text": [
+          "The website introduces the Elampillai brand through silk sarees, gold zari and strong product photography. Collections include cotton, silk, festive and devotional sarees, giving customers more than one way to begin browsing.",
+          "Category navigation and price filtering help narrow the catalogue. Individual product imagery, colour information and length details provide the context needed to choose what to ask about next."
+        ]
+      },
+      {
+        "title": "Keep the selected product in the conversation.",
+        "text": [
+          "The product-specific WhatsApp links are a small but useful connection. A customer can move from a particular saree into an enquiry carrying that product’s context, instead of starting again with an empty message.",
+          "The workflow follows the way the business takes enquiries while giving its catalogue a clearer digital structure. Product discovery and customer conversation stay connected."
+        ]
+      },
+      {
+        "title": "A catalogue that supports the next step.",
+        "text": [
+          "The delivered website combines a visual brand introduction, browsable collections, product details and a familiar enquiry route. It gives PK TEX a public catalogue built around the details of the products and the way customers contact the business."
+        ],
+        "image": "pktex-cover.webp",
+        "imageAlt": "PK TEX silk saree campaign artwork"
+      }
+    ],
+    "cardTitle": [
+      "See the saree.",
+      "Start the chat."
+    ],
+    "cardDescription": "A saree catalogue that carries the selected product into WhatsApp.",
+    "projectFee": 4000
+  }
+]

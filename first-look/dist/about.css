@@ -1,0 +1,24 @@
+/* Big Helvetica, open composition, and a scroll-linked ASCII illustration. */
+.about-section{overflow:visible;padding:78px 4% 76px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+.about-intro{padding:0 0 70px}
+.about-intro h2{font:700 clamp(64px,8.1vw,132px)/.97 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.065em;color:#e0dfd2;margin:0}
+.about-intro h2>span:not(.reveal-word){color:#b9bba9}
+.about-intro .about-copy{font-size:clamp(19px,1.6vw,25px);line-height:1.5;letter-spacing:-.025em;max-width:780px;margin:31px 0 0;color:#b3b7a3}
+.about-grid{display:grid;grid-template-columns:1fr 1fr;align-items:start;gap:6%;padding:0;min-height:0}
+.about-capabilities{margin:0;min-width:0;max-width:none}
+.about-capabilities .about-service{position:relative;display:flex;flex-direction:column;justify-content:center;min-height:54svh;padding:45px 0 50px;border-top:1px solid #6e73543b}
+.about-service:before{content:"";position:absolute;left:0;top:-1px;height:1px;width:calc(var(--service-progress,0)*100%);background:#b78359;transform-origin:left;pointer-events:none}
+.about-capabilities .about-service h3{font-size:clamp(38px,4.15vw,66px);line-height:1.04;font-weight:700;letter-spacing:-.055em;color:#c9cdb9;margin:0 0 26px;max-width:100%;transition:color .5s}
+.about-capabilities .about-service.is-active h3{color:#e0e2ce}
+.about-capabilities .about-service p{font-size:clamp(18px,1.42vw,23px);font-weight:400;line-height:1.55;letter-spacing:-.025em;color:#a9b099;max-width:570px;margin:0}
+.about-capabilities .about-approach{font-size:clamp(25px,2.35vw,39px);line-height:1.18;font-weight:500;letter-spacing:-.04em;color:#c6b396;margin:24px 0 0;padding:24px 0 10px}
+.about-grid>.bot-scene{position:sticky;top:8svh;height:82svh;max-height:780px;min-height:450px;margin:0;align-self:start;overflow:hidden}
+.about-grid #dot-bot{width:100%;height:100%;mask-image:none}
+.motion-ready .about-section .reveal-lines .reveal-word{filter:blur(var(--word-blur,0px));will-change:opacity,transform;transition:opacity .2s,transform .4s cubic-bezier(.16,1,.3,1),filter .35s}
+@media(min-width:1600px){.about-section{padding-left:6%;padding-right:6%}.about-intro{padding-bottom:83px}.about-capabilities .about-service{min-height:53svh}.about-capabilities .about-service h3{font-size:66px}.about-capabilities .about-service p{font-size:23px}}
+@media(max-width:1000px){.about-section{padding-top:60px;padding-bottom:55px}.about-intro{padding-bottom:50px}.about-intro h2{font-size:clamp(58px,8.1vw,88px)}.about-intro .about-copy{font-size:20px;max-width:650px}.about-grid{gap:5%;grid-template-columns:1.05fr .95fr}.about-capabilities .about-service h3{font-size:40px;margin-bottom:23px}.about-capabilities .about-service p{font-size:18px;line-height:1.6}.about-capabilities .about-service{min-height:50svh;padding:38px 0}.about-grid>.bot-scene{top:12svh;height:72svh;min-height:360px}.about-capabilities .about-approach{font-size:28px}}
+@media(max-width:700px){.about-section{padding:52px 5% 38px}.about-intro{padding-bottom:30px}.about-intro h2{font-size:clamp(48px,12.5vw,79px);line-height:1.01;letter-spacing:-.06em}.about-intro .about-copy{font-size:18px;line-height:1.55;margin-top:26px;max-width:100%}.about-grid{display:flex;flex-direction:column;gap:16px}.about-grid>.bot-scene{order:-1;position:relative;top:auto;width:100%;height:390px;min-height:0;max-height:none;margin:0 0 10px}.about-capabilities{width:100%}.about-capabilities .about-service{min-height:0;padding:40px 0 43px}.about-capabilities .about-service h3{font-size:clamp(35px,9.1vw,49px);line-height:1.07;margin-bottom:21px}.about-capabilities .about-service p{font-size:18px;line-height:1.65;max-width:100%}.about-capabilities .about-approach{font-size:29px;line-height:1.2;margin-top:7px;padding-top:22px}}
+@media(max-width:370px){.about-intro h2{font-size:46px}.about-intro .about-copy{font-size:17px}.about-grid>.bot-scene{height:340px}.about-capabilities .about-service h3{font-size:34px}.about-capabilities .about-service p{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.motion-ready .about-section .reveal-lines .reveal-word{filter:none;will-change:auto}.about-service:before{width:100%}}
+
+.about-service{scroll-margin-top:8svh}
