@@ -57,3 +57,5 @@ canvas[role=button]:focus-visible{outline:1px solid #9fa786;outline-offset:-3px}
 .hero-title-block{overflow-x:clip}
 
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+.hand-review .review-link{display:block;margin-top:10px;font-size:12px;line-height:1.4;color:#d0b293;text-underline-offset:3px}.hand-review .review-link[hidden]{display:none}.review-link:focus-visible{outline:1px solid currentColor;outline-offset:4px}

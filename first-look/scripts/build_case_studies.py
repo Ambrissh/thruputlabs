@@ -19,7 +19,8 @@ def project_fee(case):
 def blocks(case):
     out=[]
     for section in case['sections']:
-        out.append(f'<section class="case-chapter"><h2>{e(section["title"])}</h2><div class="case-chapter-copy">')
+        anchor=' id="client-review"' if section['title'].startswith('Client review · ') else ''
+        out.append(f'<section class="case-chapter"{anchor}><h2>{e(section["title"])}</h2><div class="case-chapter-copy">')
         out.extend(f'<p>{e(text)}</p>' for text in section.get('text',[]))
         if section.get('items'):
             out.append('<dl class="case-deliverables">')
@@ -50,7 +51,7 @@ for case in DATA:
     cards.append(f'<article class="case-orbit" data-slug="{slug}" data-brand="{brand_name}" data-line="{line}"><a class="case-face case-front" href="case-studies/{slug}.html" {trigger}>{visual}</a></article>')
     tiles.append(f'<a class="case-tile" href="case-studies/{slug}.html" {trigger}>{visual}</a>')
     facts=''.join(f'<div><dt>{e(a)}</dt><dd>{e(b)}</dd></div>' for a,b in case['facts'])
-    body=blocks(case).replace('../assets/','assets/').replace('<h2>','<h3>').replace('</h2>','</h3>')
+    body=blocks(case).replace('../assets/','assets/').replace('<h2>','<h3>').replace('</h2>','</h3>').replace('id="client-review"',f'id="{slug}-client-review"')
     cover=image(case['image'],case['imageAlt'],loading='lazy',decoding='async').replace('../assets/','assets/')
     templates.append(f'<template id="case-template-{slug}"><div class="case-article-intro"><p class="case-category">{e(case["category"])}</p><p class="case-client">{brand_name}</p><h2 class="case-detail-title" id="case-title-{slug}">{e(case["title"])}</h2>{project_fee(case)}<p class="case-lead">{e(case["lead"])}</p></div><figure class="case-article-cover is-{e(case["fit"])}">{cover}</figure><dl class="case-facts">{facts}</dl><article class="case-article-body">{body}</article><div class="case-project-link"><a href="{e(case["website"])}" target="_blank" rel="noopener noreferrer">{e(case["websiteLabel"])}</a></div></template>')
 section='''<main class="case-section" id="case-studies" aria-labelledby="case-studies-title">
@@ -72,7 +73,7 @@ home=re.sub(r'<dialog(?=[^>]*id="page-dialog")[^>]*>.*?</dialog>','',home,flags=
 home=home.replace('<button data-page="services">Services</button>','<a href="#about" data-page="services">Services</a>')
 home=home.replace('<button data-page="cases">Case studies</button>','<a href="case-studies.html">Case studies</a>').replace('<button data-page="blog">Blog</button>','<a href="blog.html">Blog</a>')
 home=home.replace('<button data-page="work">Work</button>','').replace('<button data-page="aeo">AEO</button>','')
-for name in ['app.js','smooth-scroll.js','sections.css','style.css']:
+for name in ['app.js','smooth-scroll.js','sections.js','sections.css','style.css']:
     home=re.sub(r'('+re.escape(name)+r')(?:\?v=[^"\s]+)?',lambda m:asset(name),home)
 home=re.sub(r'<section class="contact-section".*?</section>',lambda m:terminal_html(),home,flags=re.S)
 for name in ['contact.css','contact.js']:
