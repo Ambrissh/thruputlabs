@@ -62,3 +62,9 @@ Responsive desktop previews do not reproduce physical iPhone/Android hardware, t
 - `node scripts/check-animation-lifecycle.cjs`: idle scene loops, visibility/pause lifecycle and relay display cadence.
 
 The contact form currently copies the project brief. No receiving business email is configured; no delivery claim is made.
+
+## Sigaram case-study update, 11 November 2026
+
+Reviewed the expanded direct story in the in-app browser at desktop size and 390 × 844. The mobile document measured 390 px wide with no horizontal overflow. The Tamil homepage screenshot remains contained and readable without cropping. The gallery's Sigaram card opens the updated story in its existing dialog, with the original ₹2,500 website-build label and close control visible. This content/layout pass does not establish physical-device Safari or Chrome performance.
+
+Case-study source checks, SEO checks, the generated page inventory, modal checks, ring checks and `git diff --check` passed. No animation or scroll-controller behavior changed in this update.
